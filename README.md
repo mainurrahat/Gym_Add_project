@@ -27,7 +27,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/mainurrahat/Gym_Add_project)>
    cd G_y_m
    ```
 
